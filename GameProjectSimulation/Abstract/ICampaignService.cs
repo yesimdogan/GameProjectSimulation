@@ -8,7 +8,6 @@ namespace GameProjectSimulation.Abstract
     public interface ICampaignService
     {
         void Add(Campaign campaign);
-        void Delete(Campaign campaign);
-       
+        void Delete(Campaign campaign);    
     }
 }
