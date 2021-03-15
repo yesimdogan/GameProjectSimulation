@@ -11,6 +11,6 @@ namespace GameProjectSimulation.Abstract
         void Delete(Game game);
         void Update(Game game);
            
-        }
     }
+}
 
